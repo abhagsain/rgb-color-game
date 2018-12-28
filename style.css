@@ -1,0 +1,50 @@
+body {
+    background-color: #b5edba;
+    margin: 0;
+}
+
+#container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    margin: 0 auto;
+    padding : 20px; 
+    font-family: 'Montserrat'
+}
+
+.colorBoxes {
+    background-color: aliceblue;
+    padding-top: 30%;
+    width: 30%;
+    height: 30%;
+    margin: 1.66%;
+    margin-bottom: 1.66%;
+    float: left;
+    border-radius: 10px;
+}
+#header{
+    text-align: center;
+}
+
+#new-game{
+    color: white;
+    background-color: #070d59;
+    padding: 10px;
+    border-radius: 10px;
+}
+#new-game:hover{
+    color: white;
+    background-color: #2b329b;
+    /* padding: 10px; */
+    border-radius: 10px;
+}
+.image{
+    display: block;
+    text-align: center;
+    margin-top: 5%;
+}
+
